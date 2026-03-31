@@ -1,0 +1,19 @@
+# Free Space Segmentation — Level 4 Autonomous Vehicle
+# Requirements
+
+torch>=2.0.0
+torchvision>=0.15.0
+segmentation-models-pytorch>=0.3.3
+albumentations>=1.3.0
+opencv-python>=4.7.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+tensorboard>=2.13.0
+tqdm>=4.65.0
+
+# For ONNX export and TensorRT deployment
+onnx>=1.14.0
+onnxruntime-gpu>=1.15.0   # CPU only: onnxruntime
+
+# Optional: mixed precision on older GPUs
+# apex  (install separately if needed)
