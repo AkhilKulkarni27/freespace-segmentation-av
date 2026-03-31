@@ -76,7 +76,7 @@ Combined Dice Loss + Weighted Binary Cross Entropy:
 ### Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/freespace-segmentation-av
+git clone https://github.com/AkhilKulkarni27/freespace-segmentation-av
 cd freespace-segmentation-av
 python -m venv venv
 venv\Scripts\activate.bat
